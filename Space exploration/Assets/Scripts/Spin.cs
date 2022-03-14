@@ -8,6 +8,13 @@ public class Spin : MonoBehaviour
 
     void Update()
     {
-        transform.Rotate(0, speed, 0); //команда Rotate(вращение) будет запускаться в каждом кадре.
+        if (speed == 6.0f)
+        { //если скорость равна 6
+            transform.Rotate(0, speed, 0);
+        }
+        else
+        { //иначе куб поворачивается в другую сторону
+            transform.Rotate(0, -speed, 0);
+        }
     }
 }

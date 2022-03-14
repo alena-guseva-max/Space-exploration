@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: ee9461a08c243a746bb2a45793e4c4b5
+  productGUID: fa38376f748aa6544997e9430213321a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Spase exploration
+  productName: Space exploration
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -618,9 +618,9 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: f8d61e93-6a0b-4fe0-b060-b65ff54a7388
+  cloudProjectId: bc5c5fee-e3c0-42c5-a60c-0e987e5f7023
   framebufferDepthMemorylessMode: 0
-  projectName: Spase exploration
+  projectName: Space exploration
   organizationId: alena_guseva
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
